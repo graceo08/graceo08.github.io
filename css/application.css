@@ -16,6 +16,12 @@ h2
   font-family: Verdana, sans-serif;
     font-size: 30pt;
 }
+li
+{
+    font-family: "Lucida Console", monospace;
+      font-size: 25pt;
+      color: light-blue;
+}
 section
 {
     margin-left: 25px;
