@@ -1,1 +1,22 @@
-
+:root
+{
+    background-color: pink;
+    background-image: url("images/dragon.png");
+    background-repeat: repeat;
+    color: blue;
+}
+h1
+  {
+    font-size: 50pt;
+  }
+h2
+{
+  font-size: 30pt;
+}
+section
+{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
