@@ -19,9 +19,14 @@ h2
 li
 {
     font-family: "Lucida Console", monospace;
-      font-size: 25pt;
+      font-size: 15pt;
       color: light-blue;
 }
+p
+{
+    font-family: "Lucida Console", monospace;
+    font-size: 15pt
+        color: blue;
 section
 {
     margin-left: 25px;
