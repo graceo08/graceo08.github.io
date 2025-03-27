@@ -63,6 +63,9 @@ div
   text-align: center;
   color: red;
 }
+table, th, td {
+        border: 2px solid black;
+        padding: 5px;
 section
 {
     margin-left: 25px;
