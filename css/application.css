@@ -35,8 +35,9 @@ li
 p
 {
     font-family: "Lucida Console", monospace;
-    font-size: 15pt
+    font-size: 15pt;
         color: blue;
+}
 section
 {
     margin-left: 25px;
