@@ -5,6 +5,16 @@
     background-repeat: repeat;
     color: blue;
 }
+@font-face
+{
+    font-family: supershiny;
+    src: url("fonts/super-shiny-font.zip")
+}
+@font-face
+{
+    font-family: sunnyspells;
+    src: url("fonts/sunny-spells-basic-font.zip")
+}
 h1
   {
     font-family: "Lucida Console", monospace;
