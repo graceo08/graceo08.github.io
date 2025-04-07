@@ -27,7 +27,7 @@ p
     font-color: navy;
     text-align: center;
 }
-table
+table, th, td
 {
         border: 2px solid black;
         padding: 5px;
@@ -40,7 +40,7 @@ th
     font-color: rbg(106, 90, 205);
     text-align: center;
 }
-th
+td
 {
     font-family: monty;
     font-size: 25pt;
