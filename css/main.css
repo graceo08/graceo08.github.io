@@ -17,7 +17,7 @@ h1
 {
     font-family: pacifico;
     font-size: 50pt
-    font-color: rbg(255, 99, 217);
+    font-color: rbg(106, 90, 205);
     text-align: center;
 }
 p
@@ -37,7 +37,7 @@ th
 {
     font-family: monty;
     font-size: 30pt;
-    font-color: rbg(255, 99, 217);
+    font-color: rbg(106, 90, 205);
     text-align: center;
 }
 th
