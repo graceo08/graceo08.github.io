@@ -8,3 +8,8 @@
     font-family: monty;
     src: url("fonts/Montserrat.ttf")
 }
+h1
+{
+    font-family: monty;
+    font-size: 50pt
+}
