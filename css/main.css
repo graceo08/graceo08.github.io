@@ -3,3 +3,8 @@
     background-color: pink;
     background-repeat: repeat;
 }
+@font-face
+{
+    font-family: monty;
+    src: url("fonts/Montserrat.ttf")
+}
