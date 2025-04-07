@@ -25,3 +25,8 @@ p
     font-size: 25pt;
     font-color: navy;
 }
+table, th, td {
+        border: 2px solid black;
+        padding: 5px;
+    text-align: center;
+}
