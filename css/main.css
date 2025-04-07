@@ -18,15 +18,31 @@ h1
     font-family: pacifico;
     font-size: 50pt
     font-color: rbg(255, 99, 217);
+    text-align: center;
 }
 p
 {
     font-family: monty;
     font-size: 25pt;
     font-color: navy;
+    text-align: center;
 }
-table, th, td {
+table{
         border: 2px solid black;
         padding: 5px;
+    text-align: center;
+}
+th
+{
+    font-family: monty;
+    font-size: 30pt;
+    font-color: rbg(255, 99, 217);
+    text-align: center;
+}
+th
+{
+    font-family: monty;
+    font-size: 25pt;
+    font-color: navy;
     text-align: center;
 }
