@@ -24,7 +24,7 @@ h2
 {
     font-family: monty;
     font-size: 40pt;
-    font-color: hsl(0, 100%, 70%);;
+    font-color: hsl(0, 100%, 70%);
     text-align: center;
 }
 p
@@ -44,7 +44,7 @@ th
 {
     font-family: monty;
     font-size: 30pt;
-    font-color: hsl(0, 100%, 70%);;
+    font-color: hsl(0, 100%, 70%);
     text-align: center;
 }
 td
