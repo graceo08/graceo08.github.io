@@ -1,0 +1,61 @@
+:root
+{
+    background-color: pink;
+    background-repeat: repeat;
+}
+@font-face
+{
+    font-family: monty;
+    src: url("fonts/Montserrat.ttf")
+}
+@font-face
+{
+    font-family: pacifico;
+    src: url("fonts/Pacifico-Regular.ttf")
+}
+h1
+{
+    font-family: pacifico;
+    font-size: 50pt
+    font-color: rbg (106, 90, 205);
+    text-align: center;
+}
+h2
+{
+    font-family: monty;
+    font-size: 40pt;
+    font-color: rbg (106, 90, 205);
+    text-align: center;
+}
+p
+{
+    font-family: monty;
+    font-size: 25pt;
+    font-color: navy;
+    text-align: center;
+}
+table, th, td
+{
+        border: 2px solid black;
+        padding: 5px;
+    text-align: center;
+}
+th
+{
+    font-family: monty;
+    font-size: 30pt;
+    font-color: rbg (106, 90, 205);
+    text-align: center;
+}
+td
+{
+    font-family: monty;
+    font-size: 25pt;
+    font-color: navy;
+    text-align: center;
+}
+image
+{
+    height: 100pt;
+    text-align: center;
+}
