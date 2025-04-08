@@ -52,10 +52,11 @@ td
     font-family: monty;
     font-size: 25pt;
     font-color: navy;
-    text-align: center;
 }
 image
 {
-    height: 100pt;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
