@@ -27,6 +27,18 @@ h2
     font-color: hsl(0, 100%, 70%);
     text-align: center;
 }
+h3
+{
+    font-family: pacifico;
+    font-size: 30pt;
+    text-align: center;
+}
+h4
+{
+    font-family: monty;
+    font-size: 15pt;
+    text-align: center;
+}
 p
 {
     font-family: monty;
