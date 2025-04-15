@@ -59,6 +59,7 @@ td, table, ul, li
     margint-left: auto;
     margin-right: auto;
     width: 50%;
+    class: center;
 }
 img
 {
