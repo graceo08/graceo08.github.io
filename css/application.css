@@ -47,7 +47,7 @@ p
         color: green;
     text-align: center;
 }
-td
+td, table, ul, li
 {
 font-family: sunnyspells;
 font-size: 20pt;
