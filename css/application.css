@@ -14,6 +14,10 @@
     font-family: sunnyspells;
     src: url("fonts/SunnySpells.ttf")
 }
+iframe
+{
+    scrolling="no";
+}
 h1
   {
     font-family: supershiny;
