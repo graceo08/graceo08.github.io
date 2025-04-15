@@ -65,6 +65,10 @@ td
     font-size: 25pt;
     font-color: navy;
 }
+a
+{
+    text-align: center;
+}
 image
 {
     display: block;
