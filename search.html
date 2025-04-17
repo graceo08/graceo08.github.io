@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en"> 
+  <head>
+    <title>Flowers & Info Search</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <h1>Flowers & Info Search </h1>
+    <form action="https://www.google.com/search" method="GET" target="_blank">
+      <fieldset id="toplevelset">
+        <div>
+          <label for="searchbox">Search</label>
+                    <input type="text" name="q" id="searchbox">
+        </div>
+        <div>
+          <label for="site">Select a Site</label>
+                    <select name="as_sitesearch" id="site">
+                        <option value="">--All Websites--</option>
+                        <option value="https://www.almanac.com/">The Old Farmer's Almanac</option>
+                        <option value="https://www.gardeningknowhow.com/">Gardening Know How</option>
+                        <option value="https://www.gardendesign.com/">Garden Design</option>
+                        <option value="https://www.marthastewart.com/">Martha Stewart</option>
+                    </select>
+        </div>
+        <div>
+          <label for="phrase">Select a Plant Life Cycle (optional)</label>
+          <select name="as_epq" id="phrase">
+              <option value=""></option>
+              <option value="html">Annual</option>
+              <option value="css">Perennial</option>
+              </select>
+        </div>
+        <div>
+          <label for="phrase">Select a Zone* (optional)</label>
+          <select name="as_epq" id="phrase">
+              <option value=""></option>
+              <option value="html">Zone 3</option>
+              <option value="css">Zone 4</option>
+              <option value="css">Zone 5</option>
+              <option value="css">Zone 6</option>
+              <option value="css">Zone 7</option>
+              <option value="css">Zone 8</option>
+          </select>
+        </div>
+        <fieldset>
+          <div>
+            <input type="checkbox" name="newwindow" value="1" id="checkwindow">
+            <label for="checkwindow">Open Links in New Window</label>
+        </div>
+        </fieldset>
+      </fieldset>
+      <div>
+      <input type="submit" value="Search">
+      </div>
+      </form>
+      <div>
+        <h2>Growing Zone Chart</h2>
+        <img src="images/grow.zone.jpg" alt="Grow Zones" width="500">
+        <h4><a href="https://www.marthastewart.com/8375670/usda-plant-hardiness-zones">Photo from Martha Stewart</a></h4>
+      </div>
+        <div>
+          <h2>Garden Inspiration</h2>
+        <h3>The Butchart Gardens</h3>
+        <p>Located outside of Victoria, British Columbia</p>
+        <img src="images/butchart.garden.jpg" alt="Butchart gardens" width="400">
+        <h4><a href="https://www.butchartgardens.com/">The Butchart Gardens</a></h4>
+        <h3>Article of the Week</h3>
+        <p><a href="https://www.marthastewart.com/flower-bed-ideas-8603265">25 Flower Bed Ideas That Will Inspire Your Garden Design</a></p>
+        <img src="images/ms.garden.jpg" alt="Martha Inspired Garden" width="400">
+    <p>Visual Studio Code (Install on laptop/PC, ask how to get the active window set up).</p>
+    <div class="linkreturn"><a href="#">Return To Top</a></div>
+     <p><a href="index.html"><img src="images/button_homepage.png" alt="back to homepage"></a></p>
+     </div>
+  </body>
+</html>

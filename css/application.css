@@ -14,6 +14,10 @@
     font-family: sunnyspells;
     src: url("fonts/SunnySpells.ttf")
 }
+iframe
+{
+    scrolling="no";
+}
 h1
   {
     font-family: supershiny;
@@ -47,15 +51,23 @@ p
         color: green;
     text-align: center;
 }
-td
+td, table, ul, li
 {
-font-family: sunnyspells;
-font-size: 20pt;
-text-align: center;
+    font-family: sunnyspells;
+    font-size: 20pt;
+    display: block;
+    margint-left: auto;
+    margin-right: auto;
+    width: 50%;
+    class: center;
 }
 img
 {
-  height: 150pt;
+  height: 100pt;
+}
+a
+{
+    text-align: center;
 }
 div
 {
