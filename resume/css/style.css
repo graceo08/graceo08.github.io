@@ -6,7 +6,7 @@
 
 @font-face
 {
-  font-family: "limelight';
+  font-family: 'limelight';
   src: url(Limelight-Regular.ttf);
 }
 
@@ -18,4 +18,45 @@
   --Sand: #FFEFCC;
 }
 
+body
+{
+  background-color: var(--Butter);
+}
+
+h1
+{
+  font-size: 32pt;
+  font-family: 'indie';
+  color: var(--Bluebird);
+  text-align: center;
+}
+
+h2
+{
+  font-size: 24pt;
+  font-family: 'limelight';
+  color: var(--Bluebird);
+}
+
+ul, li
+{
+  font-size: 16pt;
+  font-family: 'limelight';
+  color: var(--Bluebird);
+  text-align: center;
+}
+
+.date
+{
+  font-size: 20pt;
+  font-family: 'limelight';
+  highlight: var(--Sand);
+}
+
+nav
+{
+  font-family: 'limelight';
+  font-size: 24pt;
+  color: var(--Bluebird);
+}
 
