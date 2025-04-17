@@ -1,5 +1,13 @@
 @font-face
 {
+  font-family: 'indie';
+  src: url(fonts/IndieFlower-Regular.ttf);
+}
+
+@font-face
+{
+  font-family: "limelight';
+  src: url(Limelight-Regular.ttf);
 }
 
 :root
@@ -9,3 +17,5 @@
   --Sky: #BAE8FF;
   --Sand: #FFEFCC;
 }
+
+
