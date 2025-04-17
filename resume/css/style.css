@@ -60,3 +60,17 @@ nav
   color: var(--Bluebird);
 }
 
+section
+{
+    border: 5px var(--Sky) solid;
+    margin: 18vw;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#top
+{
+    border: 12px var(--Sky) solid;
+    margin: 8vw;
+    margin-top: 5px;
+}
