@@ -39,12 +39,11 @@ h2
   text-align: center;
 }
 
-ul, li
+p
 {
   font-size: 24pt;
   font-family: 'limelight';
   color: var(--Bluebird);
-  class: center;
 }
 
 .date
