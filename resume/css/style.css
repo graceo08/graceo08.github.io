@@ -67,6 +67,7 @@ section
     margin: 18vw;
     margin-top: 10px;
     margin-bottom: 20px;
+    padding: 5px;
 }
 
 #top
@@ -74,4 +75,5 @@ section
     border: 8px var(--Sky) solid;
     margin: 8vw;
     margin-top: 5px;
+    padding: 5px;
 }
