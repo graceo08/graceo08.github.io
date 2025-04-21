@@ -44,6 +44,7 @@ p
   font-size: 24pt;
   font-family: 'limelight';
   color: var(--Bluebird);
+  text-align: center;
 }
 
 .date
