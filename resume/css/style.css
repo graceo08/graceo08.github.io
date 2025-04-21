@@ -23,6 +23,13 @@ body
   background-color: var(--Butter);
 }
 
+nav
+{
+  background-color: var(--Sand);
+  font-family: 'limelight';
+  font-size: 24pt;
+}
+
 h1
 {
   font-size: 32pt;
