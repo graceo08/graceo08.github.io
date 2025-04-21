@@ -92,3 +92,12 @@ section
     margin-top: 5px;
     padding: 5px;
 }
+
+.nav-menu
+{
+  display: flex;
+  justify-context: center;
+  padding: 0px;
+  margint: 15px;
+  list-style: none;
+}
