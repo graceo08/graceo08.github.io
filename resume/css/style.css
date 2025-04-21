@@ -63,7 +63,7 @@ nav
 
 section
 {
-    border: 5px var(--Sky) solid;
+    border: 8px var(--Sky) solid;
     margin: 18vw;
     margin-top: 10px;
     margin-bottom: 20px;
@@ -71,7 +71,7 @@ section
 
 #top
 {
-    border: 12px var(--Sky) solid;
+    border: 8px var(--Sky) solid;
     margin: 8vw;
     margin-top: 5px;
 }
