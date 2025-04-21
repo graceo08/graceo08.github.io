@@ -97,7 +97,21 @@ section
 {
   display: flex;
   justify-context: center;
-  padding: 0px;
+  padding: 5px;
   margint: 15px;
   list-style: none;
+}
+
+.nav-menu li
+{
+  margin: 12px;
+}
+
+.nav-menu a
+{
+  text-decoration: none;
+  color: var(--Sky);
+  font-weight: bold;
+  font-size: 24pt;
+  padding: 12px;
 }
