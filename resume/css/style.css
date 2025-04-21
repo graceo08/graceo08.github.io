@@ -39,9 +39,17 @@ h2
   text-align: center;
 }
 
-p
+h3
 {
   font-size: 24pt;
+  font-family: 'limelight';
+  color: var(--Bluebird);
+  text-align: center;
+}
+
+p
+{
+  font-size: 18pt;
   font-family: 'limelight';
   color: var(--Bluebird);
   text-align: center;
