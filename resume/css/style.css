@@ -103,9 +103,10 @@ section
 .nav-menu a
 {
   text-decoration: none;
-  color: var(--Sky);
+  color: var(--Bluebird);
   font-family: 'limelight';
   font-weight: bold;
   font-size: 24pt;
   padding: 12px;
+  text-align: center;
 }
