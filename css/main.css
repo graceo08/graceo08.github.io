@@ -2,6 +2,7 @@
 {
     background-color: pink;
     background-repeat: repeat;
+    --Cornflower: #6495ed;
 }
 @font-face
 {
@@ -24,7 +25,7 @@ h2
 {
     font-family: monty;
     font-size: 40pt;
-    font-color: #89cff0;
+    font-color: var(--Cornflower);
     text-align: center;
 }
 h3
@@ -32,12 +33,14 @@ h3
     font-family: pacifico;
     font-size: 30pt;
     text-align: center;
+    font-color: var(--Cornflower);
 }
 h4
 {
     font-family: monty;
     font-size: 15pt;
     text-align: center;
+    font-color: var(--Cornflower);
 }
 p
 {
@@ -57,7 +60,7 @@ th
 {
     font-family: monty;
     font-size: 30pt;
-    font-color: #89cff0;
+    font-color: var(--Cornflower);
     text-align: center;
 }
 td
