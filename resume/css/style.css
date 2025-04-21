@@ -97,7 +97,7 @@ section
 {
   display: flex;
   justify-content: center;
-  padding: 0;
-  margin: 15px 0 0;
+  padding: 0px;
+  margin: 15px;
   list-style: none;
 }
