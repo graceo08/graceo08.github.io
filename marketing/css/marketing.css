@@ -37,6 +37,10 @@ p
 div
 {
   class: center;
+  display: block;
+  margin: 8vw;
+  margin-top: 5px;
+  padding: 5px;
 }
 
 table
@@ -56,5 +60,5 @@ th, td
 
 img
 {
-  height: 50pt;
+  height: 150pt;
 }
