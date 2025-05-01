@@ -41,11 +41,11 @@ div
 
 table
 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
-    class: center;
+  display: block;
+  border: 8px solid blacl;
+  margin: 8vw;
+  margin-top: 5px;
+  padding: 5px;
 }
 
 th, td
