@@ -22,6 +22,12 @@ h2
   font-family: 'limelight';
 }
 
+h3
+{
+  font-size: 24pt;
+  font-family: 'limelight';
+}
+
 p
 {
   font-size: 24pt;
@@ -30,5 +36,20 @@ p
 
 div
 {
-  text-align: center;
+  class: center;
+}
+
+table
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    class: center;
+}
+
+th, td
+{
+  font-size: 18pt;
+  font-family: 'limelight';
 }
