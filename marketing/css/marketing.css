@@ -70,6 +70,7 @@ table
   margin: 8vw;
   margin-top: 5px;
   padding: 5px;
+  text-align: center;
 }
 
 th, td
@@ -77,6 +78,7 @@ th, td
   font-size: 18pt;
   font-family: 'limelight';
   color: var(--Mud);
+  text-align: center;
 }
 
 img
