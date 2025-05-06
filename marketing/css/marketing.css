@@ -66,10 +66,10 @@ div
 table
 {
   display: block;
-  border: 2pt var(--Gold);
+  border: 5pt black;
   margin: 8vw;
   margin-top: 5px;
-  padding: 5px;
+  padding: 10px;
   text-align: center;
 }
 
